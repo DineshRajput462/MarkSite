@@ -18,4 +18,4 @@ environment for .NET languages, HTML/JavaScript, and C++.
 
 For teams working across multiple platforms, Visual Studio provides a 
 flexible collaboration environment for that welcomes connection 
-with other development tools, such as Eclipse and Xcode.
+with other development tools, such as Eclipse and Xcode...
